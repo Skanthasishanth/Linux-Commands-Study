@@ -32,8 +32,6 @@ The `pwd` command displays the location of the current working directory.
 ```bash
 pwd
 ```
-<br>
-<br>
 
 **Output:**
 
@@ -79,7 +77,6 @@ The `cd` command is used to change the current directory.
 ```bash
 cd <directory_name>
 ```
-<br>
 
 **Output:**
 
@@ -101,7 +98,6 @@ cat [OPTION]... [FILE]...
 ![OP_6](https://github.com/user-attachments/assets/a6bfd8fa-60c5-404e-bfe8-628ab67fbdba)
 
 
-
 ### 7. `cp` Command
 
 The `cp` command is used to copy files or directories.
@@ -111,9 +107,6 @@ The `cp` command is used to copy files or directories.
 ```bash
 cp <source_file> <destination_file>
 ```
-<br>
-<br>
-<br>
 
 **Output:**
 
