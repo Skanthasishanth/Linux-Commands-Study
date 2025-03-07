@@ -32,7 +32,7 @@ The `pwd` command displays the location of the current working directory.
 ```bash
 pwd
 ```
-
+<br><br>
 **Output:**
 
 ![OP_2](https://github.com/user-attachments/assets/dffd8bd8-6d2d-46be-bc39-39e247cb678d)
