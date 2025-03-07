@@ -114,22 +114,7 @@ cp <source_file> <destination_file>
 ![OP_7](https://github.com/user-attachments/assets/0945919a-10ee-4e9e-8ff1-1a6751f43ae6)
 
 
-### 8. `su` Command
-
-The `su` command provides administrative access to another user.
-
-**Syntax:**
-
-```bash
-su <username>
-```
-
-**Output:**
-
-![OP_8](https://github.com/user-attachments/assets/a1cf4bb5-ea25-4210-8b6e-4774ed1667d3)
-
-
-### 9. `mv` Command
+### 8. `mv` Command
 
 The `mv` command is used to move a file or directory from one location to another.
 
@@ -142,6 +127,21 @@ mv <file_name> <directory_path>
 **Output:**
 
 ![OP_9](https://github.com/user-attachments/assets/7fd6a0f7-20f9-43f3-b610-d44b13eb0b66)
+
+
+### 9. `su` Command
+
+The `su` command provides administrative access to another user.
+
+**Syntax:**
+
+```bash
+su <username>
+```
+
+**Output:**
+
+![OP_8](https://github.com/user-attachments/assets/a1cf4bb5-ea25-4210-8b6e-4774ed1667d3)
 
 
 ### 10. `host` Command
