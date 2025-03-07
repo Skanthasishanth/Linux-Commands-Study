@@ -95,7 +95,8 @@ cat [OPTION]... [FILE]...
 
 **Output:**
 
-![OP_6](https://github.com/user-attachments/assets/ed774bdf-e6a1-4d7b-9679-cf7724a17340)
+![OP_6](https://github.com/user-attachments/assets/a6bfd8fa-60c5-404e-bfe8-628ab67fbdba)
+
 
 
 ### 7. `cp` Command
