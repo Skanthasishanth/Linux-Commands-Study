@@ -112,6 +112,7 @@ The `cp` command is used to copy files or directories.
 cp <source_file> <destination_file>
 ```
 <br>
+<br>
 
 **Output:**
 
