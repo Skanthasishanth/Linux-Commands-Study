@@ -33,6 +33,7 @@ The `pwd` command displays the location of the current working directory.
 pwd
 ```
 <br>
+<br>
 
 **Output:**
 
