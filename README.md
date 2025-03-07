@@ -94,6 +94,7 @@ cat [OPTION]... [FILE]...
 ```
 
 **Output:**
+
 ![OP_6](https://github.com/user-attachments/assets/ed774bdf-e6a1-4d7b-9679-cf7724a17340)
 
 
